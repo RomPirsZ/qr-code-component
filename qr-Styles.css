@@ -4,6 +4,7 @@
 }
 body{
   background: hsl(212, 45%, 89%);
+  font-size: 15px;
 }
 .cntner{
   display: grid;
