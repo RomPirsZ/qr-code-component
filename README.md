@@ -2,15 +2,11 @@
 
 It's my first time documenting a project, so there will be little information and only what I think is necessary
 
-
-
 **What did I use?**
 
 * HTML
 
 * CSS
-
-
 
 CSS code portion
 
@@ -37,9 +33,5 @@ CSS code portion
   margin-top: 13px;
 }.cntner{
 ```
-
- 
-
-
 
 **_Thanks for watching_** 💖
