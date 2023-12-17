@@ -1,9 +1,12 @@
+@import "normalize.css";
+
 *{
     font-family: 'Saira Condensed', sans-serif;
     font-family: 'Barlow', sans-serif;
 }
 body{
   background: hsl(212, 45%, 89%);
+  font-size: 15px;
 }
 .cntner{
   display: grid;
