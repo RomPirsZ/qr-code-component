@@ -27,6 +27,12 @@ body{
   border-radius: 8px;
   margin-top: 15px;
 }
+.qrcard>h1{
+  line-height: 1.2;
+}
+article p{
+  line-height: 1.2;
+}
 .attribution {
     font-size: 11px;
     text-align: center;
