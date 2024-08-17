@@ -11,27 +11,20 @@ It's my first time documenting a project, so there will be little information an
 CSS code portion
 
 ```css
-.cntner{
-  display: grid;
-  justify-items: center;
-  align-items: center;
-  padding-top: 150px;
-}
-.qrbox{
+.qrcard{
   background: #FFF;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 250px;
-  height: 390px;
+  width: 20.5rem;
+  height: 31.5rem;
   border-radius: 15px;
 }
-.qrbox>img{
-  width: 14rem;
-  height: 14rem;
-  border-radius: 10px;
-  margin-top: 13px;
-}.cntner{
+.qrcard>img{
+  width: 18.5rem;
+  border-radius: 8px;
+  margin-top: 15px;
+}
 ```
 
 **_Thanks for watching_** 💖
